@@ -1,0 +1,18 @@
+repo_name: Seddryck/NBi.AzureDataLakeStorage
+report_id: 01526606406faeab31014d9dafd85f77
+repo_type: Public
+timestamp: '2023-11-12T20:23:27+00:00'
+requested_by: Seddryck
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
